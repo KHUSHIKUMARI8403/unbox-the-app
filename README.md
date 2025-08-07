@@ -2,7 +2,7 @@
 
 A product teardown series where I analyze the **UX, features, pros, cons**, and insights of India's top apps – including Splitwise, Zomato, CRED, Meesho, and more.
 
- [**View Full Notion Project Here**](https://www.notion.so/yourprojectlink)
+ [**View Full Notion Project Here**]https://www.notion.so/Unbox-The-App-24211db51046809a9b84dd8fe3f6eea7?source=copy_link
 
 ---
 
@@ -16,7 +16,7 @@ A product teardown series where I analyze the **UX, features, pros, cons**, and 
 
 ###  Preview
 
-![Project Banner](https://your-image-host.com/banner.png) <!-- Optional: Only if you want to add your banner -->
+[Project Banner]https://github.com/KHUSHIKUMARI8403/unbox-the-app/blob/main/Unboxing%20Popular%20Indian%20Apps.png?raw=true <!-- Optional: Only if you want to add your banner -->
 
 ---
 
